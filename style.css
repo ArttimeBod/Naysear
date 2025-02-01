@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+
+
+.dom{
+    
+    width: 97%;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+
+    background-image: url(images/tyk.png);
+    border-radius: 51px;
+    background-size: 100% 100%;
+}
+
+
+header{
+    display:flex;
+    width: 101%;
+    height: 100%;
+    margin-left: -10px;
+    margin-top: -10px;
+
+    background: #2B4954;
+    align-items:center;
+}
+a{
+    text-decoration: none;
+}
+
+.logo{
+    
+    width: 119.52px;
+    height: 118.53px;
+    
+    background-image: url(images/logo.png);
+    border-radius: 33px;
+    transform: rotate(9.72deg);
+}
+
+
+h2{
+    
+    width: 123px;
+    height: 25px;
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    padding-right: 65%;
+
+    color: #FFFFFF;
+}
+
+
+.home{
+    
+    width: 92px;
+    height: 30px;
+    left: 760px;
+    top: 62px;
+    padding-right: 50px;
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    
+    color: #FFFFFF;
+}
+
+
+.about{
+    
+    width: 92px;
+    height: 30px;
+    left: 899px;
+    top: 62px;
+    padding-right: 50px;
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    
+    color: #FFFFFF;
+}
+
+.help{
+    
+    width: 92px;
+    height: 30px;
+    left: 1050px;
+    top: 62px;
+    padding-right: 50px;
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+}
+
+
+.create{
+    
+    width: 92px;
+    height: 30px;
+    left: 1177px;
+    top: 62px;
+    padding-right: 40px;
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    
+    color: #FFFFFF;
+}
+
+
+
+.domik{
+    
+    width: 23%;
+    height: 100%;
+    padding:7%;
+    padding-left: 15%;
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 520%;
+    line-height: 110%;
+
+    color: #FFFFFF;
+}
+
+
+.sign{
+    
+    width: 92px;
+    height: 30px;
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+    background: #1C2629;
+    border-radius: 15px; 
+    padding: 10px; 
+}
+
+
+.xata{
+    margin-left: -10px;
+    width: 101%;
+    height: 100%;
+ 
+    background: #1C2629;    
+}
+
+
+.xatka{
+    
+    width: 100%;
+    height: 181px;
+    
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    color: #FFFFFF;    
+}
+
+footer{
+    width: 100%;
+    height: 100%;
+    margin-bottom: -15px;
+}
