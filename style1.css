@@ -25,7 +25,6 @@ a{
     width: 5%;
     height: 118.53px;
     
-    background-image: url(images/logo.png);
     border-radius: 33px;
     transform: rotate(9.72deg);
 }
@@ -41,7 +40,6 @@ h2{
     font-weight: 700;
     font-size: 24px;
     line-height: 27px;
-    padding-right: 65%;
 
     color: #FFFFFF;
 }
@@ -201,4 +199,11 @@ footer{
 
     background: #D9D9D9;
     border-radius: 42px;    
+}
+
+.tablet{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
 }
